@@ -8,7 +8,7 @@ from datetime import datetime
 print("all libraries imported")
 
 config = {
-  "apiKey": "AIzaSyAkS7NfIiGXbjjVvuohANWAsj_b6R248Gg",
+  "apiKey": "secret",
   "authDomain": "fireprint-c310b.firebaseapp.com",
   "databaseURL": "https://fireprint-c310b.firebaseio.com",
   "storageBucket": "fireprint-c310b.appspot.com"
